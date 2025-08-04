@@ -4,7 +4,7 @@ Welcome to this repository containing my handwritten iPad notes from working thr
 
 ## 📖 Book Reference
 
-![Book Cover]("C:\Users\Tim\Pictures\Screenshots\MathStatsHogg.png")
+![Book Cover]("images/MathStatsHogg.png")
 
 > *Please replace the placeholder image path above with the correct path to your uploaded book cover.*
 
